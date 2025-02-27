@@ -1,7 +1,7 @@
 # miniQMT_trade
 # miniQMT_trade 1.0.0
 ## 1.介绍 
-* miniQMT_trade是QSimons独立编写的miniQMT量化交易系统，已实盘验证通过
+* miniQMT_trade是QSimons独立编写的miniQMT可转债量化交易系统，已于可转债实盘验证通过
 * 实现订单生命管理，可跟踪多个不同标的，高效处理回调数据
 * 可自定义止损/买卖挂单位置
 * 可自定义执行挂单未成交的撤单等操作
